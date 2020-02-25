@@ -1,6 +1,6 @@
 {
  "jwtPrivateKey": "unsecureKey",
- "db": "mongodb+srv://genmoviesUser:<password>@cluster0-8kmar.mongodb.net/test?retryWrites=true&w=majority",
+ "db": "mongodb://localhost/vidly",
  "port": "3900",
  "requiresAuth": true
 }
